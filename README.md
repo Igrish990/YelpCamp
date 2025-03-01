@@ -1,5 +1,6 @@
 #YelpCamp – Campground Management Web Application
- YelpCamp is a full-stack web application that allows users to create, view, and review campgrounds with authentication, image uploads, and data validation.
+
+YelpCamp is a full-stack web application that allows users to create, view, and review campgrounds with authentication, image uploads, and data validation.
  
 –	Technologies- Node.js, Express.js, MongoDB, Mongoose, Passport.js, Cloudinary, Joi, Bootstrap, EJS, Git, GitHub
 
